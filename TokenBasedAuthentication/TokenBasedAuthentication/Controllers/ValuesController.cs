@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Web.Http;
-using InstaMek.Mobile.Api.Filters;
+using TokenBasedAuthentication.Filters;
 
 namespace TokenBasedAuthentication.Controllers
 {
